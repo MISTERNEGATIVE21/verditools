@@ -21,4 +21,4 @@ This script is designed to streamline your design tool workflow by providing a m
 
 1. **Download the Script**:
    ```bash
-   curl -O https://raw.githubusercontent.com/MISTERNEGATIVE21/verditools/master/verditools.sh  | bash
+   curl -O https://raw.githubusercontent.com/MISTERNEGATIVE21/verditools/master/verditools.sh  && chmod +x verditools.sh  && ./verditools.sh
